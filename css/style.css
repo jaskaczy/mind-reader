@@ -22,7 +22,7 @@ body {
 
 .container {
   background-color: rgba(153, 23, 222, 0.4823529412);
-  width: 300px;
+  width: 350px;
   height: 200px;
   position: relative;
   margin: auto;
@@ -34,6 +34,9 @@ body {
   border-radius: 25px;
   justify-content: space-evenly;
   box-shadow: 10px 10px 40px;
+}
+.container p {
+  margin: 5px;
 }
 .container button {
   background-color: rgba(152, 23, 222, 0);

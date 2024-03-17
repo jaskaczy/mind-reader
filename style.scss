@@ -19,7 +19,7 @@ body {
 }
 .container {
 	background-color: #9917de7b;
-	width: 300px;
+	width: 350px;
 	height: 200px;
 	position: relative;
 	margin: auto;
@@ -31,6 +31,9 @@ body {
 	border-radius: 25px;
 	justify-content: space-evenly;
     box-shadow: 10px 10px 40px;
+    p{
+       margin: 5px;
+    }
 	button {
 		background-color: #9817de00;
 		position: relative;
